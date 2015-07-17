@@ -1,0 +1,27 @@
+{
+  "name": "graphql-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "babel": "^5.6.23",
+    "graphql": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingScooty/graphql-intro.git"
+  },
+  "author": "Scotty Vernon <scott.vernon@gmail.com> (http://wildflame.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingScooty/graphql-intro/issues"
+  },
+  "homepage": "https://github.com/KingScooty/graphql-intro#readme"
+}
